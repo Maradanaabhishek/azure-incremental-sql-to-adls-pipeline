@@ -1,0 +1,1 @@
+# azure-incremental-sql-to-adls-pipeline
